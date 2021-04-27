@@ -4,9 +4,10 @@
     pageEncoding="UTF-8"
 %>
 <!-- Header -->
-<head>
-<meta charset="UTF-8">
-<title>Insert title here</title>
-</head>
-<body>
-	<h1>header 입니다.</h1>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Insert title here</title>
+	</head>
+	<body>
+		<h1>header 입니다.</h1>
